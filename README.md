@@ -24,7 +24,7 @@ This macro is built with few assumptions in mind as listed below
 
 # Steps to run the macro
 
-1. Download the zip file [Automated_NAV_Calculation](https://github.com/Vanipreet/Automated_NAV_Calculation/archive/master.zip) onto your preferred location and unzip the file there
+1. Download the zip file [Automated_NAV_Calculation](https://github.com/HAN1T/Automated_NAV_Calculation/archive/refs/heads/main.zip) onto your preferred location and unzip the file there
 2. Open "NAV Calculation.xlsm" workbook
 3. Right click on macro button "Portfolio Position"
 4. From the drop down options click on "Assign Macro"
